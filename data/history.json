@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Cool Slate Tech",
+    "mood": "Sleek . Professional",
+    "colors": {
+      "primary": "#475569",
+      "secondary": "#64748b",
+      "accent": "#0ea5e9",
+      "background": "#f8fafc",
+      "surface": "#ffffff",
+      "text": "#0f172a",
+      "success": "#10b981",
+      "warning": "#f59e0b",
+      "danger": "#ef4444",
+      "border": "#cbd5e1"
+    },
+    "id": "7VKb2j8O",
+    "prompt": "create a gray color",
+    "createdAt": 1784187524965
+  },
+  {
+    "name": "Sleek Dark Studio",
+    "mood": "Professional . Creative",
+    "colors": {
+      "primary": "#6366f1",
+      "secondary": "#06b6d4",
+      "accent": "#ff2e93",
+      "background": "#0b0f19",
+      "surface": "#161b26",
+      "text": "#f3f4f6",
+      "success": "#10b981",
+      "warning": "#f59e0b",
+      "danger": "#ef4444",
+      "border": "#2d3748"
+    },
+    "id": "ZdSDx_t8",
+    "prompt": "modern design app",
+    "createdAt": 1784187258398
+  },
+  {
+    "name": "Signal Palette",
+    "mood": "Confident . Clear",
+    "colors": {
+      "primary": "#206f54",
+      "secondary": "#c0596a",
+      "accent": "#39b8ef",
+      "background": "#f3f7f5",
+      "surface": "#FFFFFF",
+      "text": "#173028",
+      "success": "#34b273",
+      "warning": "#f4b625",
+      "danger": "#e44e44",
+      "border": "#dae7e2"
+    },
+    "id": "sIWyE1yd",
+    "prompt": "modern design app",
+    "createdAt": 1784187156402
+  },
+  {
+    "name": "Signal Palette",
+    "mood": "Confident . Clear",
+    "colors": {
+      "primary": "#206f54",
+      "secondary": "#c0596a",
+      "accent": "#39b8ef",
+      "background": "#f3f7f5",
+      "surface": "#FFFFFF",
+      "text": "#173028",
+      "success": "#34b273",
+      "warning": "#f4b625",
+      "danger": "#e44e44",
+      "border": "#dae7e2"
+    },
+    "id": "Ib3fRtpS",
+    "prompt": "modern design app",
+    "createdAt": 1784187090199
+  }
+]

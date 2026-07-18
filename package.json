@@ -1,0 +1,18 @@
+{
+  "name": "za-color-studio",
+  "version": "1.0.0",
+  "description": "ZA Color Studio - AI palette generator with multi-provider key rotation",
+  "main": "server/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node server/index.js"
+  },
+  "engines": { "node": ">=18.0.0" },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nanoid": "^3.3.7"
+  }
+}
